@@ -1,0 +1,10 @@
+/* ========================================================================================== */
+/*  Project: Studio - Web
+/*  Author: Digital Business
+/*  Date: Mon Feb 28 2022 20:40:51 GMT+0000 (Coordinated Universal Time)
+/*  
+/*  Copyright © 2022 Red Hat, Inc.
+/*  https://www.redhat.com
+/* ========================================================================================== */
+
+.layer-cake .extending-line{opacity:0}.layer-cake .top-shade{fill:#e00}.layer-cake .light-shade{fill:#be0000}.layer-cake .dark-shade{fill:#8f0000}.layer-cake .fill-white{fill:#fff}.layer-cake #osh-layer-cake{viewBox:0 0 331}.content-text .ans-text,.content-text .osh-text,.content-text .rhel-text{display:none}.content-text.ans-show .ans-text,.content-text.osh-show .osh-text,.content-text.rhel-show .rhel-text{display:block}@media (min-width:768px){.layer-cake{cursor:pointer}.layer-cake .extending-line{opacity:1;stroke-dasharray:1000;stroke-dashoffset:1000;-webkit-transition:.5s;transition:.5s}.layer-cake .opacity-7,.layer-cake.selected .opacity-7,.layer-cake:hover .opacity-7{opacity:.7}.layer-cake .top-shade{fill:#dedede}.layer-cake .light-shade{fill:#c9c9c9}.layer-cake .dark-shade{fill:#aaa}.layer-cake.selected .top-shade,.layer-cake:hover .top-shade{fill:#e00}.layer-cake.selected .light-shade,.layer-cake:hover .light-shade{fill:#be0000}.layer-cake.selected .dark-shade,.layer-cake:hover .dark-shade{fill:#8f0000}.layer-cake.selected .circle-btn .plus-sign{opacity:0}.layer-cake.selected .circle-btn circle{-webkit-transition:.5s;transition:.5s}.layer-cake.selected .extending-line{stroke-dashoffset:0;-webkit-transition:.5s;transition:.5s}}
